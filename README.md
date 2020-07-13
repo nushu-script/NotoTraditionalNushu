@@ -1,4 +1,4 @@
-# Noto Traditional Nushu
+# Noto Traditional Nushu [![](https://data.jsdelivr.com/v1/package/gh/nushu-script/NotoTraditionalNushu/badge)](https://www.jsdelivr.com/package/gh/nushu-script/NotoTraditionalNushu)
 
 Upstream URL: [notofonts/NotoTraditionalNushu](https://github.com/notofonts/NotoTraditionalNushu)
 
@@ -23,3 +23,7 @@ Then set Nushu font to Noto Traditional Nushu:
     font-family: 'Noto Traditional Nushu', sans-serif, sans-serif;
 }
 ```
+
+## License
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
