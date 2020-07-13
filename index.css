@@ -1,0 +1,39 @@
+/* This Font Software is licensed under the SIL Open Font License,
+ * Version 1.1.
+ */
+
+@font-face {
+    font-family: 'Noto Traditional Nushu';
+    font-weight: 300;
+    src:
+        local('Noto Traditional Nushu'),
+        local('Noto Traditional Nushu Light'),
+        url(NotoTraditionalNushuLight-Light.woff2) format("woff2"),
+        url(NotoTraditionalNushuLight-Light.woff) format("woff"),
+        url(NotoTraditionalNushuLight-Light.otf) format("opentype");
+    unicode-range: U+20, U+2C-2E, U+30-39, U+41-5A, U+61-7A, U+16FE1, U+1B170-1B2FB;
+}
+
+@font-face {
+    font-family: 'Noto Traditional Nushu';
+    font-weight: 400;
+    src:
+        local('Noto Traditional Nushu'),
+        local('Noto Traditional Nushu Regular'),
+        url(NotoTraditionalNushuRegular-Regular.woff2) format("woff2"),
+        url(NotoTraditionalNushuRegular-Regular.woff) format("woff"),
+        url(NotoTraditionalNushuRegular-Regular.otf) format("opentype");
+    unicode-range: U+20, U+2C-2E, U+30-39, U+41-5A, U+61-7A, U+16FE1, U+1B170-1B2FB;
+}
+
+@font-face {
+    font-family: 'Noto Traditional Nushu';
+    font-weight: 700;
+    src:
+        local('Noto Traditional Nushu'),
+        local('Noto Traditional Nushu Bold'),
+        url(NotoTraditionalNushuBold-Bold.woff2) format("woff2"),
+        url(NotoTraditionalNushuBold-Bold.woff) format("woff"),
+        url(NotoTraditionalNushuBold-Bold.otf) format("opentype");
+    unicode-range: U+20, U+2C-2E, U+30-39, U+41-5A, U+61-7A, U+16FE1, U+1B170-1B2FB;
+}
